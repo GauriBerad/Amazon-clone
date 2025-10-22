@@ -3,6 +3,9 @@
     font-family: Arial;
     border:border-box;
 }
+body{
+    padding-bottom: 40px;
+}
 /* first navbar */
 /*box 1*/
 .navbar{
